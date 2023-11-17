@@ -1,0 +1,13 @@
+body{
+    background-color: whitesmoke;
+    font-family: sans-serif;
+    align-items: center;
+    justify-content: center;
+    }
+    
+    #image
+    {
+      display:block;
+      max-width: 100%;
+      height: auto;
+    }
